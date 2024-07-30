@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 943b55fb4b6eced4f8edaf72b632da3c
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: 84c6cbbafc30af24197c357c34538a2f
+  - enabled: 1
+    path: Assets/Scenes/Parkur.unity
+    guid: 2ef6b85cab7b65546ae968056acac74b
+  - enabled: 1
+    path: Assets/Scenes/Tent.unity
+    guid: 02a595941cff4674e98d0597c809539f
+  m_configObjects: {}
